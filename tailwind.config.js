@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  // project 경로 설정
-  content: ["./src/**/*.{html,js}"],
+  content: ['./src/**/*.{ts,tsx}'],
   theme: {
     extend: {},
   },
