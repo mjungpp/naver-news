@@ -1,5 +1,5 @@
 # 🗞️ naver-news
-- A Simple Project Using Naver Open API to Display News
+- A Simple Project Using <a href="https://developers.naver.com/docs/serviceapi/search/news/news.md#%EB%89%B4%EC%8A%A4">Naver Open API</a> to Display News
 
 ## 📚 Tech Stacks
 
