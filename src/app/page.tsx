@@ -1,3 +1,5 @@
-export default function Page() {
-  return <h1>Hello, Next.js!</h1>;
-}
+const Page = () => {
+  return <div>루트</div>;
+};
+
+export default Page;

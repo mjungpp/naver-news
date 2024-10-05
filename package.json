@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "",
+  "proxy": "https://openapi.naver.com",
+  "author": "@mjungpp",
   "license": "ISC",
   "dependencies": {
     "next": "^14.2.14",
